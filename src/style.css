@@ -1,0 +1,74 @@
+::-moz-selection {
+    color: white;
+    background: #520093;
+}
+
+::selection {
+    color: white;
+    background: #520093;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Noto Sans Mono', monospace;
+    line-height: 1.4;
+    background: #fefefe;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    margin-left: auto;
+    display: flex;
+    font-size: 15px;
+}
+
+nav span {
+    margin: 0 0.4rem;
+}
+
+main {
+    max-width: 664px;
+    margin: 0 auto;
+    padding: 1.5rem 12px 2rem 12px;
+    width: 100%;
+}
+
+a {
+    color: #520093;
+    text-decoration: none;
+    transition: background 0.2s, color 0.2s;
+}
+
+a:hover {
+    background: #520093;
+    color: white;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+h1:hover,
+h2:hover {
+    color: #520093;
+    transition: background 0.2s, color 0.2s;
+}

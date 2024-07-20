@@ -1,0 +1,32 @@
+{
+  "name": "thetrotfreak.github.io",
+  "version": "1.0.0",
+  "description": "My GitHub Pages",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "preview": "npx vite preview",
+    "deploy" : "npx gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetrotfreak/thetrotfreak.github.io.git"
+  },
+  "author": "thetrotfreak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thetrotfreak/thetrotfreak.github.io/issues"
+  },
+  "homepage": "https://github.com/thetrotfreak/thetrotfreak.github.io#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "gh-pages": "^6.1.1",
+    "vite": "^5.3.4"
+  }
+}
