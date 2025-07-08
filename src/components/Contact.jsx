@@ -8,7 +8,8 @@ export default function Contact() {
         Feel free to contact me via{" "}
         <a href="mailto:thetrotfreak@yahoo.com">mail</a> or{" "}
         <a href="https://x.com/thetrotfreak">X</a>. You can also find me on{" "}
-        <a href="https://github.com/thetrotfreak">Github</a>.
+        <a href="https://github.com/thetrotfreak">Github</a> and {" "}
+        <a href="https://www.linkedin.com/in/bivas-k-26843b1ba/">LinkedIn</a>.
       </p>
     </>
   );

@@ -11,8 +11,7 @@ export default function WhatIDo() {
       <p>
         My previous work projects (mostly Pythonic GUIs) are listed on my{" "}
         <a href="https://github.com/thetrotfreak">GitHub Repository Tab</a>.
-        Furthermore, I contribute to other{" "}
-        <a href="https://github.com/flet-dev/flet">open source projects</a>.
+        Some aside note, checkout <a href="https://github.com/flet-dev/flet">Flet</a> (not from me!).
       </p>
     </>
   );
