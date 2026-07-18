@@ -14,9 +14,9 @@ export default function Introduction() {
         <h1 className="hero-title">Bivas Kumar</h1>
         <p className="hero-role code-font">Software Developer @ CISOGenie™</p>
         <p className="hero-subtitle">
-          👋🏼 Hey there! I'm a developer building secure Pythonic applications,
-          web interfaces, and SaaS APIs. Currently focused on building
-          closed-source SaaS tools for security professionals at{" "}
+          👋🏼 Hey there! I'm a developer building secure Pythonic applications
+          and SaaS APIs. Currently focused on building closed-source SaaS tools
+          for security professionals at{" "}
           <a
             href="https://www.cisogenie.com/"
             target="_blank"
