@@ -28,6 +28,6 @@
     "@vitejs/plugin-react": "^6.0.3",
     "gh-pages": "^6.1.1",
     "prettier": "^3.9.5",
-    "vite": "^8.1.5"
+    "vite": "^8.3.5"
   }
 }
